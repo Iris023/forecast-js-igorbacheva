@@ -16,7 +16,7 @@ body {
     flex-direction: column;
     font-family: 'Roboto', sans-serif;
     position: fixed;
-    background-image: linear-gradient(rgba(200, 233, 230, 0.185), rgb(124 126 126 / 34%));
+    text-align: center;
     width: 100%;
     height: 100vh;
   }
