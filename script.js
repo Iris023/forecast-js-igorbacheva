@@ -71,3 +71,8 @@ function getDate() {
 }
 
 
+function alertVPN(){
+    alert(`If you're located in Russian Federation use VPN connection to get correct weather forecast`)
+}
+
+setTimeout(alertVPN, 6000)
