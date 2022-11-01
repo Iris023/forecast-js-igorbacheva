@@ -80,4 +80,4 @@ function alertVPN(){
     })
 }
 
-setTimeout(alertVPN, 1000)
+setTimeout(alertVPN, 6000)
