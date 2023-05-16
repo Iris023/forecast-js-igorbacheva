@@ -70,14 +70,4 @@ function getDate() {
     dispayDate.innerHTML = `${day} ${date} ${month} ${year}`
 }
 
-
-function alertVPN(){
-    Swal.fire({
-        position: 'center',
-        icon: 'info',
-        title: `If you're located in Russian Federation use VPN connection to get correct weather forecast`,
-        showConfirmButton: true,
-    })
-}
-
-setTimeout(alertVPN, 6000)
+setTimeout(alertVPN, 6000);
